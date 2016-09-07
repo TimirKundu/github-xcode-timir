@@ -12,7 +12,6 @@
 		1C0857671D7FDEBA0014FEEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C0857651D7FDEBA0014FEEF /* Main.storyboard */; };
 		1C0857691D7FDEBA0014FEEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C0857681D7FDEBA0014FEEF /* Assets.xcassets */; };
 		1C08576C1D7FDEBA0014FEEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C08576A1D7FDEBA0014FEEF /* LaunchScreen.storyboard */; };
-		1C0857741D7FE7990014FEEF /* MapForItenerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0857731D7FE7990014FEEF /* MapForItenerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
