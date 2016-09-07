@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func onClickTheButton(sender: AnyObject) {
+        
+        print("This is a Git Tutorial")
+    }
 
 }
 
